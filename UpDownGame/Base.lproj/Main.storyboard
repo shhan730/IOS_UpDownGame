@@ -79,7 +79,7 @@
                     </view>
                     <connections>
                         <outlet property="inputField" destination="RrH-DR-e0d" id="fdB-do-Fbd"/>
-                        <outlet property="resultLable" destination="rWW-jq-hhH" id="MM2-J0-HLp"/>
+                        <outlet property="resultLabel" destination="rWW-jq-hhH" id="MM2-J0-HLp"/>
                         <outlet property="turnCountLable" destination="Q1B-OV-sps" id="noM-lU-f8S"/>
                     </connections>
                 </viewController>
